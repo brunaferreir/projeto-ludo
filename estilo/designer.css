@@ -1,10 +1,9 @@
-*{
+body{
     font-family:bold, Arial, Helvetica, sans-serif;
     font-size:  17px;
-}
-body{
- 
     margin: 0px;
+ 
+   
    
    
 }
@@ -26,7 +25,8 @@ header{
     background-color: #7427A3 ;
     width: 100%;
     margin: auto;
-    padding: 15px ;
+    padding: 20px ;
+    
   }
   a{
            
@@ -35,6 +35,9 @@ header{
     text-align: justify;
     padding: 8px;
     margin: 10px;
+    color:rgb(211, 197, 197);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
 }
 
   div >a:hover{
@@ -45,12 +48,6 @@ header{
     color: black;
 
   }
-
-  a{
-    color:rgb(211, 197, 197);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px; 
-}
   h1{
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       font-size: 40px;
@@ -72,5 +69,6 @@ header{
   
 section{
     padding: 20px;
+    background-color: rgba(144, 238, 144, 0.671);
 }
 
