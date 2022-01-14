@@ -1,11 +1,8 @@
 body{
     font-family:bold, Arial, Helvetica, sans-serif;
     font-size:  17px;
-    margin: 0px;
- 
-   
-   
-   
+    margin: 0px;  
+    background-color: rgba(144, 238, 144, 0.671);
 }
 header{
     background-color: #7427A3;
@@ -69,6 +66,38 @@ header{
   
 section{
     padding: 20px;
-    background-color: rgba(144, 238, 144, 0.671);
+    background-color: rgba(208, 144, 238, 0.986);
+}
+#informaçao{
+    background-color: lightyellow;
+    border-radius: 15px;
+    padding-top: 100px;
+    
+    padding: 50px;
+    margin: 1px;
+   
+}
+#exemplos{
+    background-color:rgb(60, 179, 114) ;
+    border-radius: 15px;
+    padding: 50px;
+    padding-top: 20px;
+
+}
+#video{
+    background-color: rgba(144, 238, 144, 0.945); 
+    border-radius: 10px;
+    margin: auto;
+    height: 100px;
+    padding-bottom: 30%;
+    position: relative;
+}
+section#video > iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+
 }
 
