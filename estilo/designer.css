@@ -1,0 +1,120 @@
+body{
+    font-family:bold, Arial, Helvetica, sans-serif;
+    font-size:  17px;
+    margin: 0px;  
+    background-color: rgba(144, 238, 144, 0.671);
+}
+header{
+    background-color: #7427A3;
+    text-align: center;
+    padding: 20px;
+    width:100%;
+    height: 100px;
+  }
+
+ #principal{
+      font-family: 'gabo', Helvetica, sans-serif ;
+      font-size: 60px;
+  }
+  div{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #7427A3 ;
+    width: 100%;
+    margin: auto;
+    padding: 20px ;
+    
+  }
+  a{
+           
+    color: rgba(255, 255, 255, 0.747); 
+    text-decoration: none;
+    text-align: justify;
+    padding: 8px;
+    margin: 10px;
+    color:rgb(211, 197, 197);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+  div >a:hover{
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+    background-color: #f1e9e9a6;
+    border-radius: 3px;
+    color: black;
+
+  }
+  h1{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 40px;
+  }
+  h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: antiquewhite;
+
+  }
+
+  h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px; 
+  }
+  p{
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 18px;
+  }
+  
+section{
+    padding: 20px;
+    background-color: rgba(208, 144, 238, 0.986);
+}
+#informaçao{
+    background-color: lightyellow;
+    border-radius: 15px;
+    padding-top: 100px;
+    
+    padding: 50px;
+    margin: 1px;
+   
+}
+#exemplos{
+    background-color:rgb(60, 179, 114) ;
+    border-radius: 15px;
+    padding: 50px;
+    padding-top: 20px;
+
+}
+#video{
+    background-color: rgba(144, 238, 144, 0.945); 
+    border-radius: 10px;
+    margin: auto;
+    height: 100px;
+    padding-bottom: 30%;
+    position: relative;
+}
+section#video > iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+
+}
+#canal{
+    padding: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 18px;
+    text-align: center;
+}
+footer{
+    font: bold;
+    background-color: #7427A3;
+    color: rgba(0, 0, 0, 0.808); 
+    text-align: center;
+    height: 20px;
+    padding: 20px;
+     font: normal italic 16px arial; 
+}
+
+
