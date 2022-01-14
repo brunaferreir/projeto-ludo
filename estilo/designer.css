@@ -1,9 +1,10 @@
 body{
     font-family:bold, Arial, Helvetica, sans-serif;
     font-size:  17px;
-    margin: 0px;  
-    background-color: rgba(144, 238, 144, 0.671);
+    margin: 0px;
+     background-color:  rgba(144, 238, 144, 0.945);
 }
+   
 header{
     background-color: #7427A3;
     text-align: center;
